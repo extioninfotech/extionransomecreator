@@ -6,7 +6,7 @@ We use it to test under NDA agreements with clients and their consents for pente
 # Extion Infotech Ransomeware Creator Tool - Extionrc 
 # This tools is developed by Extion infotech for testing and practicing of Cybersecurity interns 
 
-<img title="ExtionRansomCreator" src="https://img.shields.io/badge/CODENAME%20-extionrc-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="ExtionRansomCreator" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
+<p align="center"><img title="ExtionRansomCreator" src="https://img.shields.io/badge/CODENAME%20-extionrc-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="ExtionRansomCreator" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
 # <p align="center">About
 
 <p align="center">
