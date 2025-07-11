@@ -416,7 +416,7 @@ class __extionrc__:
 {extionrc} : you can fill or leave blank for using default config
          the default configuration is name = \'{r}Screen Locker{w}\'
          head = \'{r}Your Phone Is Locked{w}\'
-         desc = \'{r}locked by extionrc@termuxhackers-id{w}\'
+         desc = \'{r}locked by extionransomewarecreator{w}\'
          icon = \'{y}data/tmp/icon.png{w}\' and keys = \'{y}s3cr3t{w}\'
 
          custom lock screen apk (passprhase)
