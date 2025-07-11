@@ -1,19 +1,27 @@
+# <p align="center">Disclaimer
+
+<b>This tool is provided for educational and research purpose only. Extion infotech is not responsible for any misuse of this tool. 
+We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
+#
+# Extion Infotech Ransomeware Creator Tool - Extionrc 
+# This tools is developed by Extion infotech for testing and practicing of Cybersecurity interns 
+
 <img title="ExtionRansomCreator" src="https://img.shields.io/badge/CODENAME%20-extionrc-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge"> <img title="ExtionRansomCreator" src="https://img.shields.io/badge/VERSION%20-3.0-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
-### About
+# <p align="center">About
 
 <p align="center">
 <a href="https://www.extioninfotech.com/"><img src="data/src/eximg.png" width="300px" alt="Extion Infotech"></a>
 </p>
 
 ExtionRansomCreator is a simple tool to create Trojan or Ransomware for Android devices
-### Disclaimer
+# <p align="center">Disclaimer
 This tool is made for education purpose only, the author is not responsible for any loses or damage caused by this programs
-### Installation
+# <p align="center">Installation
 * Kali Linux, Ubuntu, Debian, Termux (proot-distro: Ubuntu)
 ```bash
 git clone https://github.com/extioninfotech/extionransomecreator.git && cd extionransomecreator && sudo bash install.sh && python3 extionrc.py
 ```
-### Demo
+# <p align="center">Demo
 * Generate Custom Trojan (metasploit)
 
 ![ExtionDdos](data/src/ss1.png)
